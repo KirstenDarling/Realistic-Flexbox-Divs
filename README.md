@@ -1,6 +1,6 @@
 # Realistic Flexbox Divs
 
-### View the [live project here.](https://kirstendarling.github.io/realistic-flexbox-divs/)
+### View the [live project here.](https://kirstendarling.github.io/Realistic-Flexbox-Divs/)
 
 ### Screenshot
 
